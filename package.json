@@ -1,0 +1,20 @@
+{
+  "name": "file-metadata-fcc-hieuvt",
+  "version": "1.0.0",
+  "description": "response the file size in bytes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/file-metadata-fcc-hieuvt.git"
+  },
+  "author": "hieuvt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "multer": "^1.2.0",
+    "path": "^0.12.7"
+  }
+}
